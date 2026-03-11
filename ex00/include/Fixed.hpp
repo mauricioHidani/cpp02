@@ -6,7 +6,7 @@
 /*   By: mhidani <mhidani@student.42sp.org.br>      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/03/09 15:41:18 by mhidani           #+#    #+#             */
-/*   Updated: 2026/03/09 16:47:25 by mhidani          ###   ########.fr       */
+/*   Updated: 2026/03/11 16:05:41 by mhidani          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,8 +17,8 @@
 class Fixed
 {
 private:
-	int					_raw;
-	static const int	_frac;
+	int					_value;
+	static const int	_fracBits;
 
 public:
 	Fixed(void);
