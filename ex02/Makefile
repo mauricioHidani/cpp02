@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: mhidani <mhidani@student.42sp.org.br>      +#+  +:+       +#+         #
+#    By: mhidani <mhidani@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2026/03/09 16:03:33 by mhidani           #+#    #+#              #
-#    Updated: 2026/03/11 21:05:04 by mhidani          ###   ########.fr        #
+#    Updated: 2026/03/14 16:01:01 by mhidani          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -16,7 +16,7 @@ AUTHOR		= mhidani
 LOCAL		= 42SP
 VERSION		= 1.0.0v
 
-INC_DIR		= include
+INC_DIR		= includes
 SRC_DIR		= src
 OBJ_DIR		= obj
 
